@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ellin72
+- 👋 Hi, I’m ELLI N SHITUNA
 - 👀 I’m interested in Computer Science and Ethical Hacking courses
 - 🌱 I’m currently learning Python in Sofware Engineering and Development
 - 💞️ I’m looking to collaborate on all IT and Computer Science Courses through working with you all in helping me to acomplish this.
